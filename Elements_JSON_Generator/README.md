@@ -57,8 +57,9 @@ Structure:
   ...
 ]
 
-⚙️ Requirements
-Python 3.x
-Standard library only (json)
+``` 
+#### ⚙️ Requirements
+- Python 3.x \
+- Standard library only (json)
 
 No external dependencies.

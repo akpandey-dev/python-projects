@@ -1,4 +1,4 @@
-# 🔐 Password Entropy & Strength Analyzer
+# Password Entropy Analyzer
 
 A Python-based terminal tool that analyzes passwords using **entropy calculations** to estimate their **strength, predictability, and estimated crack time**.  
 Designed to educate users on why *length + character diversity* matters more than clever-looking passwords.
@@ -44,5 +44,6 @@ This tool makes that concept tangible instead of abstract.
 - `colorama` library
 
 Install dependencies:
+
 ```bash
 pip install colorama

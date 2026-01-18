@@ -1,4 +1,4 @@
-# 🧪 Periodic Table JSON Generator
+# Elements JSON Generator
 
 A Python script that generates a **structured JSON dataset of chemical elements**, including real, predicted, and theoretical elements, using a fixed schema and consistent property ordering.
 
@@ -42,9 +42,11 @@ Total properties per element: **~35+ fields**
 
 The script generates:
 
-```text
-elements.json
-Structure:
+> elements.json
+
+Structure: 
+
+```json
 
 [
   {

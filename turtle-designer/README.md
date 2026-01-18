@@ -1,4 +1,4 @@
-# 🐢 Turtle Motion Pattern Simulator
+# Turtle Designer
 
 A Python project that demonstrates **repetitive motion patterns**, **time-controlled animation**, and **keyboard-based interruption** using the `turtle`, `time`, and `keyboard` modules.
 

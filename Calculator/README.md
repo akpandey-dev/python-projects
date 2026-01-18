@@ -1,4 +1,4 @@
-# 🧮 Python Tkinter Calculator
+# Calculator
 
 A simple desktop calculator built using **Python’s Tkinter GUI toolkit**.  
 This project demonstrates **event handling**, **GUI layout management**, and **expression evaluation** in a clean, beginner-friendly way.
@@ -9,14 +9,10 @@ Minimal UI. Functional logic. Straight to the point.
 
 ## 🧠 What This Calculator Does
 
-- Performs basic arithmetic operations:
-  - Addition (+)
-  - Subtraction (−)
-  - Multiplication (×)
-  - Division (÷)
-- Uses button-based input (no command line)
-- Evaluates expressions dynamically
-- Handles invalid expressions gracefully
+- Supports basic arithmetic: +, −, ×, ÷
+- Button-based input (no CLI)
+- Dynamic expression evaluation
+- Graceful handling of invalid input
 
 ---
 

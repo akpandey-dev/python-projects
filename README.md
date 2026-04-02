@@ -1,4 +1,4 @@
-# 03-python-projects
+# Python Projects
 
 A hub of my Python creations — tools, experiments, mini-apps, and random scripts built while exploring everything from logic to automation. Organized chaos, powered by Python and driven by curiosity and hands-on experimentation.
 
@@ -37,7 +37,7 @@ All projects are organized under the `python/` folder. Each project has its own 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akpandey-dev/03-python-projects.git
+   git clone https://github.com/akpandey-dev/python-projects.git
    ```
 2. Navigate to the folder of your interest.
 3. Run the file directly in the suitable environment(Python interpreter).
